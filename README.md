@@ -1,9 +1,9 @@
-# PythonShield - Anti-Cheat Protection System
+# FlasHGuard - Anti-Cheat Protection System
 
 ## 🇬🇧 English Documentation
 
 ### Overview
-PythonShield is a comprehensive anti-cheat and game protection system designed to prevent unauthorized modifications, debugging, and cheating in the game client. It implements multiple layers of security checks and monitoring systems.
+FlasHGuard is a comprehensive anti-cheat and game protection system designed to prevent unauthorized modifications, debugging, and cheating in the game client. It implements multiple layers of security checks and monitoring systems.
 
 ### Features
 
@@ -134,7 +134,7 @@ The system uses specific error codes for different detection types:
 - `CSHIELD_HANDLER_ERROR_X`: Memory protection errors
 
 ### How to Use
-1. Compile with `ENABLE_SHIELD` defined
+1. Compile with `FH_ENABLE_GUARD` defined
 2. Ensure `flashguard.jpg` exists in the game directory
 3. The system initializes automatically via `MetaInitialize()`
 4. All checks run in background threads
@@ -152,7 +152,7 @@ The system uses specific error codes for different detection types:
 ## 🇷🇴 Documentație în Română
 
 ### Prezentare Generală
-PythonShield este un sistem comprehensiv de protecție anti-cheat conceput pentru a preveni modificările neautorizate, debugging-ul și cheat-urile în clientul de joc. Implementează multiple niveluri de verificări de securitate și sisteme de monitorizare.
+FlasHGuard este un sistem comprehensiv de protecție anti-cheat conceput pentru a preveni modificările neautorizate, debugging-ul și cheat-urile în clientul de joc. Implementează multiple niveluri de verificări de securitate și sisteme de monitorizare.
 
 ### Funcționalități
 
@@ -283,7 +283,7 @@ Sistemul folosește coduri de eroare specifice pentru diferite tipuri de detecta
 - `CSHIELD_HANDLER_ERROR_X`: Erori de protecție memorie
 
 ### Cum se Folosește
-1. Compilează cu `ENABLE_SHIELD` definit
+1. Compilează cu `FH_ENABLE_GUARD` definit
 2. Asigură-te că `flashguard.jpg` există în directorul jocului
 3. Sistemul se inițializează automat prin `MetaInitialize()`
 4. Toate verificările rulează în thread-uri de fundal
