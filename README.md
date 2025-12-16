@@ -77,10 +77,8 @@ FlasHGuard is a comprehensive anti-cheat and game protection system designed to 
 - Context information in logs:
   - Player name
   - Computer name
-  - IP address
-  - Timestamp
   - Error type and details
-- Visual protection indicator (flashguard.jpg)
+<img width="791" height="443" alt="image" src="https://github.com/user-attachments/assets/67fedbe4-231e-497d-87ad-553c4e62359b" />
 
 ### Configuration Options
 
@@ -226,10 +224,8 @@ FlasHGuard este un sistem comprehensiv de protecție anti-cheat conceput pentru 
 - Informații de context în log-uri:
   - Numele jucătorului
   - Numele computerului
-  - Adresa IP
-  - Timestamp
   - Tipul de eroare și detalii
-- Indicator vizual de protecție (flashguard.jpg)
+<img width="791" height="443" alt="image" src="https://github.com/user-attachments/assets/67fedbe4-231e-497d-87ad-553c4e62359b" />
 
 ### Opțiuni de Configurare
 
